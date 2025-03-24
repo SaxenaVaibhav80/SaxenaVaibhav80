@@ -32,12 +32,9 @@ Hi 👋! My name is vaibhav saxena and I'm a full stack developer and programmer
 </div>
 
 # 📊 GitHub Stats:
- <img src="https://github-readme-stats.vercel.app/api?username=SaxenaVaibhav80&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="175px"/>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SaxenaVaibhav80&theme=dark&hide_border=false" height="175px"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaxenaVaibhav80&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
+![](https://github-readme-stats.vercel.app/api?username=SaxenaVaibhav80&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SaxenaVaibhav80&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaxenaVaibhav80&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -53,3 +50,30 @@ Hi 👋! My name is vaibhav saxena and I'm a full stack developer and programmer
 <img src="https://raw.githubusercontent.com/SaxenaVaibhav80/SaxenaVaibhav80/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
